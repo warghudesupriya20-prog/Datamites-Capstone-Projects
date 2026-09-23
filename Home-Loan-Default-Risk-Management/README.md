@@ -22,6 +22,12 @@ The objective of this project is to develop a machine learning model that predic
 ---
 
 ## Dataset
+Due to the large size of the dataset files, the datasets are not directly included in this GitHub repository.
+
+The required datasets can be accessed using the links below:
+https://d3ilbtxij3aepc.cloudfront.net/projects/CDS-Capstone-Projects/PRCP-1006-HomeLoanDef.zip
+
+Note: Please download the required dataset files and place them in the Data/ folder before running the notebooks.
 
 The project uses the Home Credit-style dataset containing multiple related datasets:
 
